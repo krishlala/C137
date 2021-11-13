@@ -1,0 +1,43 @@
+body {
+    background-position: center;
+    background-size: cover;;
+}
+
+.heading {
+    font-size: 22px;
+    width: 100%;
+    box-shadow: 5px 5px 18px black;
+    margin-top: 0px;
+}
+
+#start {
+    width: 7%;
+    font-size: 20px;
+    box-shadow: 5px 5px 18px black;
+
+}
+
+#objs, #status {
+    box-shadow: 5px 5px 18px black;
+    font-size: 20px;
+
+}
+
+.copyright {
+    bottom:0;
+    color: white;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    line-height: 3;
+    position: fixed;
+    font-size: 18px;
+}
+
+canvas {
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px black;
+    margin-top: 100px;
+    text-align: center;
+}
